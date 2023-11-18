@@ -1,6 +1,6 @@
 # show-password-with-eye-icon
-English : Showing a Password with eye icon from Bootstrap
+Munculin password pake ikon mata dari Bootstrap
 #
-I don't want to make a show password function with a checkbox. So, I made a show password function too but using an icon from a Bootstrap to simplify the web design. <br>
+Saya tidak mau menggunakan checkbox karena itu model lama. Ya, meskipun pake model mata juga model lama. Tapi saya lebih suka menggunakan model mata karena membuat desain dari web kita menjadi lebih ringkas <br>
 
-Here is the source code
+Berikut adalah source codenya...
