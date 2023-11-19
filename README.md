@@ -5,4 +5,4 @@ Saya tidak mau menggunakan checkbox karena itu model lama. Ya, meskipun pake mod
 #
 References : <a href="https://codepen.io/Qanser/pen/dVRGJv">Codepen.io - Qanser</a>
 
-Yang codepen masih Bootstrap $, dan sudah saya upgrade menjadi Bootstrap 5
+Yang codepen masih Bootstrap 4, dan sudah saya upgrade menjadi Bootstrap 5
